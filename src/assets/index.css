@@ -8,13 +8,13 @@
     --chatbot-container-bg-color: transparent;
     --chatbot-container-font-family: 'Open Sans';
   
-    --chatbot-button-bg-color: #0042da;
+    --chatbot-button-bg-color: #BD1583;
     --chatbot-button-color: #ffffff;
   
     --chatbot-host-bubble-bg-color: #f7f8ff;
     --chatbot-host-bubble-color: #303235;
   
-    --chatbot-guest-bubble-bg-color: #3B81F6;
+    --chatbot-guest-bubble-bg-color: #BD1583;
     --chatbot-guest-bubble-color: #ffffff;
   
     --chatbot-input-bg-color: #ffffff;
@@ -54,7 +54,7 @@
   }
   .string { color: green; }
   .number { color: darkorange; }
-  .boolean { color: blue; }
+  .boolean { color: #BD1583; }
   .null { color: magenta; }
   .key { color: rgb(0, 43, 54); }
   
